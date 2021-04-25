@@ -1,7 +1,6 @@
-### Hi there 👋 I am Prateek Bhandari
+### Hi there! ✨Welcome✨
 
-<!--
-**prateekbhandarii/prateekbhandarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ _Latest Contribution: OCR using Google Machine Learning Kit_
 
 Here are some ideas to get you started:
 
