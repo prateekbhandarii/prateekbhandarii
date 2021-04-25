@@ -1,15 +1,15 @@
-### Hi there! ✨Welcome✨
+# Hello, I'm ✨Prateek Bhandari✨
+ 
+A Software Engineer who is passionate for Android apps. Actually loves the feel that **Someone is using your piece of art**.
+Hence, making open-source more accessible, creating technology to elevate people, and building community.
+Currently working as Android application developer @ On Device Solutions Ltd. Hyderabad, India, managing and developing SAP oriented applications.
 
- _Latest Contribution: OCR using Google Machine Learning Kit_
+# Latest Contribution 
 
-Here are some ideas to get you started:
+OCR using Google Machine Learning Kit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Reach me on Internet
+
+- Sharing Professional updates on <a href="https://www.linkedin.com/in/prateek-bhandari/">LinkedIn</a>
+- About my social life on <a href="https://www.instagram.com/prateekbhandari_/">Instagram</a>
+- Copy/Paste code from <a href="https://stackoverflow.com/users/10097879/prateek-bhandari">Stack Overflow</a>
