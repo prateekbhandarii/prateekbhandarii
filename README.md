@@ -6,7 +6,7 @@ Currently working as Android application developer @ On Device Solutions Ltd. Hy
 
 # Latest Contribution 
 
-OCR using Google Machine Learning Kit
+Object Character Recognition using Google Machine Learning Kit
 
 # Reach me on Internet
 
