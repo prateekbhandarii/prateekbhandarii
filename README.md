@@ -1,12 +1,12 @@
 # Hello, I'm ✨Prateek Bhandari✨
 
-A Software Engineer who is passionate about Android apps. Actually loves the feeling that **Someone is using your piece of art**.
+A Software Engineer who is passionate about Android apps, actually loves the feeling when **Someone uses your piece of art and it makes their life easy**.
 Hence, making open-source more accessible, creating technology to elevate people, and building community.
-Currently working as Android application developer @ On Device Solutions Ltd. Hyderabad, India, managing and developing SAP oriented applications.
+Currently working as Android application developer @ On Device Solutions Ltd. Hyderabad, India.
 
 # Latest Contribution 
 
-Object Character Recognition using Google Machine Learning Kit
+Google's Android Certification practice repo
 
 # Reach me on Internet
 
