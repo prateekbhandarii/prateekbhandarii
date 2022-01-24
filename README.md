@@ -8,7 +8,7 @@ Currently working as Android application developer @ On Device Solutions Ltd. Hy
 
 Google's Android Certification practice repo
 
-# Reach me on Internet
+# Reach me on Internet   ![](https://komarev.com/ghpvc/?username=prateekbhandarii)
 
 - Professionalism on <a href="https://www.linkedin.com/in/prateek-bhandari/">LinkedIn</a>
 - Socials on <a href="https://www.instagram.com/prateekbhandari_/">Instagram</a>
