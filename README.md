@@ -12,7 +12,7 @@ Google's Android Certification practice repo
 
 ![](https://komarev.com/ghpvc/?username=prateekbhandarii&color=green&style=flat&label=Github+Views)
 
-- Professionalism on <a href="https://www.linkedin.com/in/prateek-bhandari/">LinkedIn</a>
-- Socials on <a href="https://www.instagram.com/prateekbhandari_/">Instagram</a>
+- Professional profile on <a href="https://www.linkedin.com/in/prateek-bhandari/">LinkedIn</a>
+- Social profile on <a href="https://www.instagram.com/prateekbhandari_/">Instagram</a>
 - Problem solving skills from <a href="https://stackoverflow.com/users/10097879/prateek-bhandari">Stack Overflow</a>
-- Glimps of technical skills on <a href="https://www.hackerrank.com/prateek_9770">HackerRank</a>
+- Glimps of my technical skills on <a href="https://www.hackerrank.com/prateek_9770">HackerRank</a>
