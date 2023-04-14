@@ -6,7 +6,7 @@ Currently working as Mobile developer @ Infobeans, Indore, India.
 
 # Latest Contribution 
 
-Google's Android Certification practice repo
+A React Native app full with fundamentals required for a production app.
 
 # Reach me on Internet
 
