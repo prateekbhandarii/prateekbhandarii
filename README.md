@@ -9,9 +9,9 @@ Here, you'll find a collection of my personal projects that showcase my skills, 
 A movie suggestion app which uses Jetpack compose for UI layer on Android and working to migrate it into Kotlin multi-platform application.
 
 # 🛠️ Technologies & Tools
-Languages: Kotlin, Java, Dart, Javascript
-Databases: PostgreSQL, MongoDB
-Tools: Git
+**Languages**: Kotlin, Java, Dart, Javascript
+**Databases**: PostgreSQL, MongoDB
+**Tools**: Git
 
 # 📫 Get in Touch
 I love connecting with fellow developers and tech enthusiasts! Feel free to reach out through <a href="https://www.linkedin.com/in/prateek-bhandari/">LinkedIn</a>, <a href="https://www.instagram.com/prateekbhandari_/">Instagram</a>, <a href="https://stackoverflow.com/users/10097879/prateek-bhandari">Stack Overflow</a>, <a href="https://www.hackerrank.com/prateek_9770">HackerRank</a> if you’d like to collaborate, share ideas, or just chat about tech.
