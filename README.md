@@ -6,7 +6,7 @@ Here, you'll find a collection of my personal projects that showcase my skills, 
 
 # 🌟 Featured Projects
 
-A movie suggestion app which uses Jetpack compose for UI layer on Android and working to migrate it into Kotlin multi-platform application.
+Masterclass series codebase which practices Jetpack compose to industry standards.
 
 # 🛠️ Technologies & Tools
 **Languages**: Kotlin, Java, Dart, Javascript
